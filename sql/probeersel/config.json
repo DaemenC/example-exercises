@@ -1,7 +1,16 @@
 {
-  "type": "sql",
-  "db": "wereld.sqlite",
-  "judge": {
-    "type": "standard"
-  }
+  "description": {
+    "names": {
+      "nl": "Probeersel"
+    }
+  },
+  "internals": {
+    "token": "EJ7FwWVeEq7vTWMDtHU5VuxrXwv8GYz2WGX-tZNrmUDjAFScXv74Iee_yffExWQ9",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  },
+  "labels": [
+    "example",
+    "database"
+  ],
+  "type": "exercise"
 }
